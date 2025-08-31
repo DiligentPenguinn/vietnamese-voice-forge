@@ -1,7 +1,13 @@
 # vietnamese-voice-forge
 ## 📖 Overview
-This project focuses on **Vietnamese paraphrasing** as an entry point into natural language processing (NLP).  
+This project focuses on **Vietnamese style paraphrasing** as an entry point into natural language processing (NLP). 
+Specifically, we excecute two tasks: paraphrasing modern Vietnamese sentence to ancient style (cổ trang) Vietnamese sentence, and paraphrasing modern Vietnamese sentence to Quang Binh Dialect. 
+
+Below are two examples of paraphrasing: 
+- **Modern sentence**: "Anh ấy luôn cố gắng hết sức để bảo vệ gia đình mình." ->  **Ancient Vietnamese Sentence**: "Chàng dốc hết tâm can, nguyện lấy thân này che chở gia quyến."
+- **Modern Sentence**: "Xin chào bạn, vì sao bạn xinh đẹp đến vậy" -> **QB Dialect**: "Chào mi, răng mi đẹp cấy rứa hè"
 We compare two main approaches:
+
 1. **Cost-efficient model fine-tuning**
 2. **RAG pipelines leveraging DeepSeek V3**
 
@@ -17,7 +23,7 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 
 ### 1. Training & Data Collection
 - **Fine-tuning models**:  
-  - `deepseek-r1-distill-qwen-1.5b-bnb-4bit`  
+  - `Deepseek-r1-distill-qwen-1.5b-bnb-4bit`  
   - `DeepSeek-R1-0528-Qwen3-8B-unsloth-bnb-4bit`  
   - Chosen for cost efficiency and effective fine-tuning capability.
 
@@ -28,7 +34,8 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
   - We also tried OpenAI GPT-40 and found that DeepSeek V3 outperformed OpenAI GPT-4o in idiomatic accuracy (human-eval).
 
 - **Classical style (Cổ Trang)**:  
-  - Collected ~40,000 sentences from classical novels:  
+  - Collected ~40,000 sentences ([Dataset link](https://huggingface.co/datasets/triettheeducator/modern-to-ancient-vietnamese-paraphrased-dataset))
+ from classical novels:  
     *Hồng Lâu Mộng, Tam Quốc Diễn Nghĩa, Liêu Trai Chí Dị, Thủy Hử, Tây Du Ký*.  
   - Translated them into modern Vietnamese using GPT-4o Mini.  
   - Dataset is available on Hugging Face.
@@ -49,9 +56,12 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 
 - **Result**
 + QB Dialect finetuned: 0.669
++ Ancient Vietnamese fine-tuned: 
 + Deepseek + Rag for QB Dialect: 0.914
-+ Deepseek + Rag for Vietnamese ancient style paraphrasing: 0.551
-<img width="1200" height="500" alt="Deepseek+rag" src="https://github.com/user-attachments/assets/64305ec7-b073-4787-b757-3c2904f65061" />
++ Deepseek + Rag for Vietnamese ancient style paraphrasing: 0.551 (It seems that we need to update embedding model, so Bertscore can capture semantic similarity more correctly, as by human-evaluation, we see the paraphrased sentence is quite close to the original sentence, semantically. 
+
+![Thiết kế chưa có tên](https://github.com/user-attachments/assets/58a71f5b-856e-4950-8ec2-fc94b7413f1b)
+
 
 ---
 
@@ -65,7 +75,10 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 ## Future Work
 
 - Execute more NLP methods to increase paraphrasing quality
-- Explore the dynamic impact of different languages such as Vietnamese and English to performance of small-size model (< 1B parameters) 
+- Explore the dynamic impact of different languages such as Vietnamese and English to performance of small-size model (< 1B parameters)
+
+## Acknowledgment
+THis is our first project exploring NLP. There are so many rooms for improvement and many more things to learn. This is not by any mean the standard way for executing paraphrasing task. 
 
 ## 👥 Authors
 
