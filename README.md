@@ -3,7 +3,9 @@
 This project focuses on **Vietnamese paraphrasing** as an entry point into natural language processing (NLP).  
 We compare two main approaches:
 1. **Cost-efficient model fine-tuning**
-2. **RAG pipelines leveraging DeepSeek V3** 
+2. **RAG pipelines leveraging DeepSeek V3**
+
+In total, we trained and deployed 4 models. 2 finetuned models and 2 others model using RAG pipelines, Details will be specified below.
 
 DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effectiveness** compared to other popular models such as OpenAI GPT-4o and Gemini.  
 
@@ -23,7 +25,7 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 
 - **Dialect adaptation (Quảng Bình)**:  
   - Used DeepSeek V3 with a **rule file** to generate ~20,000 sentence pairs.  
-  - DeepSeek V3 outperformed OpenAI GPT-4o in idiomatic accuracy.
+  - We also tried OpenAI GPT-40 and found that DeepSeek V3 outperformed OpenAI GPT-4o in idiomatic accuracy (human-eval).
 
 - **Classical style (Cổ Trang)**:  
   - Collected ~40,000 sentences from classical novels:  
@@ -39,11 +41,17 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 
 ### 2. Evaluation
 - **Metrics**:  
-  - **BERTScore** → semantic similarity  
+  - **BERTScore** → semantic similarity. F1 score to be more specific
   - **Self-BLEU** → diversity of paraphrasing (coming soon) 
 
 - **Test Dataset**:  
-  - 1,000 Vietnamese sentences (source: to be specified).
+  - 1,000 Vietnamese sentences from [this dataset](https://huggingface.co/datasets/DiligentPenguinn/vietnamese-paraphrase-pairs-dataset)
+
+- **Result**
++ QB Dialect finetuned: 0.669
++ Deepseek + Rag for QB Dialect: 0.914
++ Deepseek + Rag for Vietnamese ancient style paraphrasing: 0.551
+<img width="1200" height="500" alt="Deepseek+rag" src="https://github.com/user-attachments/assets/64305ec7-b073-4787-b757-3c2904f65061" />
 
 ---
 
