@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+
+__pycache__/
+__pypackages__/

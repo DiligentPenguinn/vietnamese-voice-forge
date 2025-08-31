@@ -1,0 +1,242 @@
+Lexicon equivalence
+Standard Vietnamese --> Quang Binh Dialect Equivalence
+húc --> bạng
+ba láp --> bậy bạ
+bừa bộn --> bây beng
+túi áo --> bâu
+phanh ra --> béc
+vá --> díp
+rủ --> kè
+chạn --> tra
+gàu múc nước --> đài
+gáy --> oóc
+(gạo) tẻ --> (gạo) lòn
+cù --> choọc léc
+ngã --> bổ
+gánh --> sương
+khiêng --> rinh
+sợ --> lện
+que/ thanh --> lẻ
+còn gì --> lưa chi
+nhặt/ lượm --> mót
+nôn --> mửa
+vẫy --> ngoắt
+bẩn --> nhớp
+đầu gối --> trôốc cúi
+sái --> trặc
+keo kiệt --> kiếc rằng/ kiệc sắc
+rách nát --> tướp
+luống --> vôồng
+ngứa --> xót
+(cá) quả --> (cá) tràu
+núi --> rú
+sưng --> cảy
+trên --> côi
+khiếp --> tởn
+xấu hổ --> ôốc dôộc
+nhọ nồi --> lọ nghẹ
+sợ --> lện
+mở hàng --> mì xưa
+xấu hổ --> dị
+khẽ --> sè sẹ
+càu nhàu --> càm ràm
+đùa giỡn --> chợn
+trêu --> chọc
+thấy --> chộ
+ốm --> đau
+tạnh (mưa) --> dợ
+gỉ --> treéc
+khỏe --> bạo
+khay --> cơi
+giã --> đâm
+dứa --> thơm
+gần/ sát --> kề
+bát --> đọi
+gầy --> ốm
+gối (đầu) --> kê (trôốc)
+nón (rách) --> lịp (cời)
+ngập --> lút
+tối mờ --> lu
+mảnh sành --> mẻ trèng
+(mưa) phùn --> (mưa) bui bui
+im --> nín
+lồng --> rọ
+nổi --> thấu
+che --> thưng
+chỉ bảo --> vẹ
+quét --> xuốc
+xa --> ngái
+một chút/ ít --> xí
+(cây) xoan --> (cây) sầu đâu
+vú --> bụ
+ngọn --> đọt
+già --> tra
+bôi --> trây
+sân --> cươi/ cơi
+giã (gạo) --> đâm (gạo)
+giấu --> giú
+tào lao --> bá vơ
+đú đởn --> rượng
+nước --> nác
+mợ --> mự
+trâu --> tru
+Bòn mót --> Boòng moót
+gọt --> khót
+già --> tra
+Phanh phui --> Pheng phui
+giường --> Chờng
+Phonetic equivalence
+First consonant: There are many cases where the first consonant is systematically replaced by another in Quang Binh dialect. For example
+- nh → d, gi (Standard → Quang Binh Dialect)
+nhà → già
+nhờ cậy → giờ cậy
+nhiều ít → diều ít
+nhòm ngó → dòm ngó
+- nh → l (Standard → Quang Binh Dialect)
+hoa nhài → hoa lài
+nhạt → lạt
+nhanh → lanh
+- s → th (Standard → Quang Binh Dialect)
+ngôi sao → ngôi thao
+củ sắn → củ thắn
+- x → th (Standard → Quang Binh Dialect)
+xếp giấy → thếp giấy
+cái xuổng → cái thuổng
+- v → b (Standard → Quang Binh Dialect)
+vui vẻ → bui bẻ
+vá → bá
+vo → bo
+véo → bẹo
+vừa → bừa
+- v → ph (Standard → Quang Binh Dialect)
+vỗ tay → phổ tay
+ăn vụng → ăn phúng
+- b → ph (Standard → Quang Binh Dialect)
+(nói) bịa → (nói) phịa
+bỏng → phỏng
+- d → đ (Standard → Quang Binh Dialect)
+con dam → con đam
+dưới → đưới
+- d → th (Standard → Quang Binh Dialect)
+dỗ (dỗ dành) → thổ
+dấu → thu
+- d → r (Standard → Quang Binh Dialect)
+dở hơi → rở hơi
+- g → kh/c (Standard → Quang Binh Dialect)
+gãi → khải
+gỡ → khở
+gõ → khỏ
+- gi → tr (Standard → Quang Binh Dialect)
+giun → trùn
+ở giữa → ở trữa
+già giặn → tra trắn
+đầu gối → trôốc cún
+- gi → ch  (Standard → Quang Binh Dialect)
+giường → chờng
+giờ → chừ
+- c → n (Standard → Quang Binh Dialect)
+cạo → nạo
+Vowel: Similarly, here are some examples of vowels in Standard Vietnamese being replaced by another in Quang Binh Dialect
+Standard Vietnamese → Quang Binh Dialect
+- ach → ăt
+- khách khứa → khắt khứa
+- ưi→  ơi
+- gửi → gởi
+- ôi → ui
+- chổi → chủi
+- tôi → tui
+- ôn → un
+- hôn → hun
+- khôn → khun
+- ai → ây
+- trái → trấy
+- con gái → con gấy / con cấy
+- anh → eng
+- tanh → teng
+- ganh tị → gheng tị
+- ênh → êng
+- bênh vực → bêng vực
+- kềnh → kềng
+- ach → ec
+- đỏ quạch → đỏ quẹc
+- mách → méc
+- et → ec
+- ghét → ghéc
+- ưng → âng
+- bưng mâm → bâng mâm
+- âu → u
+- trâu → tru
+- bầu → bù
+- trấu → trú
+- sâu → su
+- iê → e
+- miếng → méng
+- miệng → mẹng
+- ươ → a
+- lửa → lả
+- nước → nác
+- mượn → mạn
+- nướng → náng
+- đường → đàng
+- uô → o/ oo
+- lúa → ló
+- nuốt → nót
+- luồn → lòn
+- muối → mói
+- ruộng → roọng
+- o → oo
+- con ong → (coong) oong
+- bòn mót → boòng moóc
+- gọng → goọng
+- n → ng
+- gan góc → gang góc
+- gán ghép → gáng ghép
+- gắn bó → gắng bó
+- t → c
+- ghen ghét → gheng ghéc
+- chỉ → chỉn
+- rui mè → rui mèn
+- rễ → rẹn
+Grammar
+Standard Vietnamese --> Quang Binh Dialect
+này --> ni
+Thế này --> ri/mầng ri
+ấy --> nớ
+Thế (ấy) --> Rứa
+kia --> tê
+kìa --> tề
+Đâu, nào --> mô
+Sao, thế nào --> răng
+gì --> chi
+Gì thế --> Chi hè
+Gì bây giờ --> Chi giừ
+Phía kia --> Đàng tê
+tôi --> tui
+tao --> tau
+Chúng tôi --> Bọn tui
+Chúng tao --> Bọn choa
+mày --> mi
+Chúng mày --> Bây / bọn bây
+nó --> hắn
+Chúng nó --> Bọn hắn
+Ông ấy --> Ông nớ
+Bà ấy --> Mệ nớ
+Cô ấy --> O nớ
+Chị ấy --> Ả nớ
+Anh ấy --> Eng nớ
+Bọn ấy --> Bọn nớ
+Hôm nay --> Bựa ni
+Bây giờ --> Bây chừ / bựa chừ
+Ngày trước / lúc trước --> Khi tê / hồi tê
+lúc --> Khi / hồi
+Lâu nay --> Lâu ni
+Lúc nãy --> Khi nạy
+Lúc đó --> Khi nớ
+Example sentences
+Standard Vietnamese --> Quang Binh Dialect
+sao lại làm vậy nhỉ? --> Mầng chi mà mầng rứa hè?
+mày đi đâu (vậy)? --> Mi đi mô rứa?
+anh làm gì (vậy)? --> Eng mầng chi rứa?
+Xem mày kìa! --> Mi tề!
+Ăn cơm chưa vậy? --> Ăn cơm chưa rứa tề?
+Nói thế mà cũng nghe được! --> Nói rứa mà cũng nghe được tề!
