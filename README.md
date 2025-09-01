@@ -56,7 +56,7 @@ DeepSeek V3 was chosen for its **robustness in Vietnamese** and **cost-effective
 
 - **Result**
 + QB Dialect finetuned: 0.669
-+ Ancient Vietnamese fine-tuned: 
++ Ancient Vietnamese fine-tuned: 0.773
 + Deepseek + Rag for QB Dialect: 0.914
 + Deepseek + Rag for Vietnamese ancient style paraphrasing: 0.551 (It seems that we need to update embedding model, so Bertscore can capture semantic similarity more correctly, as by human-evaluation, we see the paraphrased sentence is quite close to the original sentence, semantically. 
 
