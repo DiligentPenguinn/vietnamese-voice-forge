@@ -3,6 +3,8 @@
 This project focuses on **Vietnamese style paraphrasing** as an entry point into natural language processing (NLP). 
 Specifically, we excecute two tasks: paraphrasing modern Vietnamese sentence to ancient style (cổ trang) Vietnamese sentence, and paraphrasing modern Vietnamese sentence to Quang Binh Dialect. 
 
+*Note: the API is currently stopped, hence the UI will return error if you try to use. You can use the model that we upload and run it yourself*
+
 Below are two examples of paraphrasing: 
 - **Modern sentence**: "Anh ấy luôn cố gắng hết sức để bảo vệ gia đình mình." ->  **Ancient Vietnamese Sentence**: "Chàng dốc hết tâm can, nguyện lấy thân này che chở gia quyến."
 - **Modern Sentence**: "Xin chào bạn, vì sao bạn xinh đẹp đến vậy" -> **QB Dialect**: "Chào mi, răng mi đẹp cấy rứa hè"
